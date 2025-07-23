@@ -5,3 +5,8 @@ weight/
 __pycache__
 DATA/*
 test_outputs*
+left_rectified.png
+right_rectified.png
+FS_output/
+data
+*.sif
